@@ -136,14 +136,14 @@ td{
 	}
 	#myTable tr{
 		display: inline-block;
-		width: 180px;
+		width: 190px;
 		margin: 10px auto;
 		font-size: 12px;
 		padding: 2px;
 		text-align: center;
 	}
 	.block img{
-	width: 170px;
+	width: 180px;
 	height: 250px;
 }
 	
